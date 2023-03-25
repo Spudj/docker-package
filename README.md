@@ -1,5 +1,5 @@
-# docker-packge
+# docker-package
 
-![docker-publish](https://github.com/github/docs/actions/workflows/docker-publish.yml/badge.svg)
+[![Docker](https://github.com/Spudj/docker-package/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/Spudj/docker-package/actions/workflows/docker-publish.yml)
 
 Deploy a Docker image as a package using GitHub Actions
